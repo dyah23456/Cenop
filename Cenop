@@ -1,0 +1,7 @@
+echo "# Cenop" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git Branch -M main 
+git remote add origin https://github.com/dyah23456/Cenop.git
+ git push - kamu asal utama
